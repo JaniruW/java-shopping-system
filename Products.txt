@@ -1,0 +1,33 @@
+
+Type: Electronics
+Product_ID: A001
+Product Name: Phone
+Available Number Of Products: 7
+Price: 34.0
+Brand: Apple
+Warranty Period In Weeks: 45
+-------------------------------------
+Type: Electronics
+Product_ID: A003
+Product Name: bulb
+Available Number Of Products: 34
+Price: 35.0
+Brand: orange
+Warranty Period In Weeks: 34
+-------------------------------------
+Type: Clothing
+Product_ID: C001
+Product Name: Shirt
+Available Number Of Products: 10
+Price: 56.0
+Size: S
+Colour: Blue
+-------------------------------------
+Type: Clothing
+Product_ID: C002
+Product Name: Tshirt
+Available Number Of Products: 19
+Price: 45.0
+Size: s
+Colour: black
+-------------------------------------
